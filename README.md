@@ -41,11 +41,11 @@ My main contributions included:
 
 - C#
 - ASP.NET Web Forms
+- SQL / SQL Server
 - HTML
 - CSS
 - WCF Service Reference
 - Visual Studio
-- IIS Express
 
 ## Learning Focus
 
@@ -53,11 +53,12 @@ This project helped me strengthen my understanding of:
 
 - Web application development using ASP.NET Web Forms
 - C# backend logic
+- SQL database connectivity
 - User authentication and session-based workflows
 - E-commerce-style system functionality
 - Product and cart management
 - Admin-side product maintenance
-- Connecting frontend pages with backend logic
+- Connecting frontend pages with backend and database logic
 - Working collaboratively in a group software development project
 
 ## Contributors
